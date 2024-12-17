@@ -1,4 +1,4 @@
-# Bootstrap sampling with MATLAB&reg;  
+# Bootstrap sampling with MATLAB&reg;  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=alco1900/Bootstrap-sampling-with-MATLAB&file=bootstrapping_data.mlx)
 
 Bootstrapping is a statistical procedure that resamples a single dataset to create many simulated samples. This process allows you to calculate standard errors, construct confidence intervals, and perform hypothesis testing for numerous types of sample statistics. Bootstrap methods are alternative approaches to traditional hypothesis testing and are notable for being easier to understand and valid for more conditions.
 
